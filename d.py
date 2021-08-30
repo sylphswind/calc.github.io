@@ -38,5 +38,3 @@ elif a == "random":
     elif ad == "E":
         val1 = int(input("Enter value of the first number: "))
         print(math.exp(val1))
-
-
